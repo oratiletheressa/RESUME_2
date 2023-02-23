@@ -6,17 +6,25 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <tittle>My Resume</tittle>
     </head>
+    <header>
     <body>
     <h1>Oratile Theressa Mafatshe</h1>
     <p>An introductory personal statement.</p>
+    </header>
+    <section>
+    <aside>
     <p>
     <ul>
+    <br>
     <img src="images_\Oratile_MAFATSHE.jpg" alt="Oratile_mafatshe" width="300" height="300">
     <li><a href="#education">Education</a></li>
     <li><a href="#experience">Experience</a></li>
     <li><a href="#skills">Skills</a></li>
+    </br>
     </ul>
     </p>
+    </aside>
+    <article> 
     <h2 id="education">Education</h2>
     <h3>Intro to Web at <a href="http://codespace.co.za/">CodeSpace Academy</a></h3>
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
@@ -53,7 +61,11 @@
         <li>Skill 2</li>
         <li>Skill 3</li>
         <li>Skill 4</li>
+    </article>
+    </section>
+    <footer>
     <h2>Contact Details</h2>
+    </footer>
     <a href="#linkedin">LinkedIn</a>
     </ul>
     </body> 
